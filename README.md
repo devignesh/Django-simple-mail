@@ -12,3 +12,10 @@ Active the Virtual environment
 Run the server
 
 	python testmail/manage.py runserver
+
+If you get any error while send mail to change the settings in your mail account 
+
+To enable the settings in your mail to low security apps.
+
+Use this link : https://stackoverflow.com/questions/26852128/smtpauthenticationerror-when-sending-mail-using-gmail-and-python
+
